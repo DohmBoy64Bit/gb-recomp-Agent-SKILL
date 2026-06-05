@@ -89,3 +89,5 @@ Start at Phase 0 — check the workspace and let's get a baseline coverage test 
 ## 🙏 Acknowledgements & Credits
 
 The structural framework and operational model for this AI Skill are directly derived from the amazing [**PS2Recomp Agent Skill**](https://github.com/hkmodd/ps2-recomp-Agent-SKILL) created by **hkmodd**. Their work laid the foundation for building highly constrained, persistent memory agent loops tailored for reverse engineering. Huge thanks to hkmodd!
+
+This skill directly integrates with the phenomenal [**gb-recompiled**](https://github.com/arcanite24/gb-recompiled) static Game Boy recompiler project created by **arcanite24**. The recompiler's architecture and tooling are what make this automated workflow possible. All credit for the actual recompilation engine goes to arcanite24 and their contributors!
